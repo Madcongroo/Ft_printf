@@ -1,4 +1,4 @@
-# ft_printf (42)
+# ft_printf
 
 A custom reimplementation of the standard C `printf()` function.
 
